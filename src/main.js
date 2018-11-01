@@ -5,5 +5,7 @@ class Desserts {
 }
 
 class IceCream extends Desserts{
-	
+	constructor(type, calories, flavor, scoops){
+		
+	}
 }
