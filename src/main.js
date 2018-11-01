@@ -3,3 +3,7 @@ class Desserts {
 		
 	}
 }
+
+class IceCream extends Desserts{
+	
+}
