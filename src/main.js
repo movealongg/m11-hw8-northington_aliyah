@@ -24,3 +24,7 @@ const vanillaIceCream = new IceCream('Ice Cream', 340, 'Vanilla', 3);
 console.log(vanillaIceCream);
 
 vanillaIceCream.includeSpoon();
+
+let vanilla = vanillaIceCream.flavor;
+
+console.log(`I like ${vanilla}`);
